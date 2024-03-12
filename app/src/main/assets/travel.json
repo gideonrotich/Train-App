@@ -1,0 +1,33 @@
+[
+
+  {
+
+    "passengerName":"Mark",
+
+    "startStation":1,
+
+    "exitStation":2
+
+  },
+
+  {
+
+    "passengerName":"Ryan",
+
+    "startStation":1,
+
+    "exitStation":4
+
+  },
+
+  {
+
+    "passengerName":"Gideon",
+
+    "startStation":2,
+
+    "exitStation":5
+
+  }
+
+]
